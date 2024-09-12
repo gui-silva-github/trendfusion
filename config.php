@@ -2,7 +2,7 @@
 
     $base = 'http://localhost/trendfusion';
 
-    $db_name = 'devsbook';
+    $db_name = 'trendfusion';
     $db_host = 'localhost';
     $db_user = 'root';
     $db_pass = '';
